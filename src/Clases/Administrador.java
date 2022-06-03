@@ -2,6 +2,7 @@ package Clases;
 
 public class Administrador {
 	private String _lugarTrabajo;
+
 	private String _usuario;
 	private String _password;
 	
