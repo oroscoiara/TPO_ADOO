@@ -1,6 +1,6 @@
 package Interfaces;
 
-import Clases.Notificacion;
+import Clases.Notificaciones.Notificacion;
 
 public interface IEnviarNotificacion {
 	 void enviarNotificacion(Notificacion notificacion);
